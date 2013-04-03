@@ -1,7 +1,7 @@
 Margarine
 =========
 
-A multi-player distributed version of Pong using Node.js
+A distributed version of multi-player Pong using Node.js
 
 
 ##Developers
